@@ -1,0 +1,299 @@
+/* ........Task1........... 
+ */
+
+.Header1 {
+  background-color: red;
+  height: 100px;
+}
+.Nav1 {
+  background-color: blue;
+  height: 80px;
+}
+.bodypart1 {
+  background-color: rgb(100, 81, 81);
+}
+.body1 {
+  width: 60%;
+  height: 200px;
+  display: inline-block;
+  background-color: red;
+}
+.Section1 {
+  background-color: yellow;
+  height: 100px;
+}
+.Articles1 {
+  background-color: green;
+  height: 100px;
+}
+.Aside1 {
+  width: 39.5%;
+  height: 200px;
+  background-color: orange;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.footer1 {
+  background-color: cyan;
+  height: 100px;
+}
+
+/* .......................Task2 ......................  */
+
+.Index2 {
+  width: 19.5%;
+  height: 200px;
+  background-color: orange;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.body2 {
+  width: 80%;
+  height: 200px;
+  display: inline-block;
+  background-color: red;
+}
+
+/* .......................Task3...................  */
+
+.Header3 {
+  height: 100px;
+  background-color: yellow;
+  margin: 5px;
+}
+.Nav3 {
+  height: 70px;
+  background-color: red;
+  margin: 5px;
+}
+.main3 {
+  height: 400px;
+  width: 49%;
+  background-color: greenyellow;
+  margin: 5px;
+  display: inline-block;
+}
+
+.body3 {
+  display: inline-block;
+  width: 49%;
+  vertical-align: bottom;
+}
+.Aside3 {
+  background-color: orange;
+  height: 200px;
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 5px;
+}
+.Section3 {
+  background-color: blue;
+  height: 200px;
+  width: 100%;
+  margin: 5px;
+}
+#aside003 {
+  background-color: chartreuse;
+  height: 100px;
+  margin: 5px;
+}
+#Footer3 {
+  background-color: darkmagenta;
+  height: 100px;
+  margin: 5px;
+}
+
+/* .............................Task4 ........................  */
+
+#Header4 {
+  background-color: blue;
+  height: 100px;
+}
+#leftbody4 {
+  width: 20%;
+  background-color: blueviolet;
+  height: 300px;
+  display: inline-block;
+  margin-top: 4px;
+}
+
+#rightbody4 {
+  width: 79.5%;
+  height: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+#Main4 {
+  height: 150px;
+  background-color: yellowgreen;
+  width: 49%;
+  display: inline-block;
+  margin: 3px;
+}
+#rightmain4 {
+  height: 150px;
+  background-color: blueviolet;
+  width: 49%;
+  display: inline-block;
+  margin: 3px;
+}
+#Footer4 {
+  background-color: coral;
+  height: 150px;
+  display: inline-block;
+  width: 100%;
+  margin: 5px;
+}
+
+/* ..............................TAsk5...............  */
+
+#nav5 {
+  height: 50px;
+  background-color: blue;
+}
+#into5 {
+  background-color: darkgreen;
+  height: 100px;
+  margin: 10px;
+}
+#Main5 {
+  background-color: tomato;
+  height: 120px;
+  width: 50%;
+  display: inline-flex;
+  margin: 10px;
+}
+#Sidebar5 {
+  display: inline-block;
+  background-color: yellow;
+  height: 120px;
+  width: 45%;
+  margin: 10px;
+}
+
+#Footer5 {
+  height: 100px;
+  background-color: blue;
+  margin: 10px;
+}
+
+/* .................Task 6 .....................  */
+
+#Header6 {
+  height: 100px;
+  background-color: yellow;
+}
+#Nav6 {
+  height: 300px;
+  width: 20%;
+  display: inline-block;
+  background-color: blue;
+}
+#Articles6 {
+  width: 79%;
+  height: 300px;
+  display: inline-block;
+  background-color: green;
+}
+#Footer6 {
+  background-color: brown;
+  height: 50px;
+}
+
+/* .........................Task7.......................  */
+#border7,
+#border8 {
+  border: 2px solid black;
+}
+
+#Header7,
+#Header8 {
+  height: 50px;
+  background-color: rgb(230, 161, 222);
+  text-align: center;
+}
+#NAv7 {
+  color: white;
+  background-color: rgb(160, 5, 160);
+  text-align: center;
+  height: 40px;
+}
+#Main7 {
+  height: 200px;
+  text-align: center;
+}
+#Footer7 {
+  background-color: pink;
+  height: 100px;
+  text-align: center;
+}
+
+/* .............................TAsk8......................  */
+
+#Nav8 {
+  height: 100px;
+  background-color: blueviolet;
+  color: white;
+}
+#COntent8 {
+  height: 150px;
+  background-color: red;
+  display: inline-block;
+  width: 30%;
+}
+#Main8 {
+  height: 150px;
+  display: inline-block;
+  width: 69%;
+}
+#Footer8 {
+  background-color: rosybrown;
+  height: 100px;
+}
+/* .......................Task 9................ */
+
+#Header9 {
+  background-color: aquamarine;
+  height: 100px;
+}
+#body9 {
+  background-color: rgba(127, 255, 212, 0.468);
+  margin: 5px 5px 0 0;
+}
+
+#Intro9 {
+  background-color: aquamarine;
+  height: 200px;
+  width: 50%;
+  display: inline-block;
+  vertical-align: top;
+}
+#rightbody9{
+    display: inline-block;
+    height: 200px;
+    width: 49%;
+        vertical-align: top;
+
+
+}
+#Hero9 {
+
+width: 100%;
+background-color: aquamarine;
+height: 130px;
+display: inline-block;
+
+
+  
+
+  margin-bottom: 5px;
+
+}
+#Call9 {
+  background-color: yellow;
+  height: 60px;
+  display: inline-block;
+width: 100%;}
